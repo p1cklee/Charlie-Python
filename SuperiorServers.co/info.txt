@@ -1,0 +1,7 @@
+This script automatically opens Steam, joins the server, and deposits 10k into your org bank every 2 hours.
+
+This takes advantage of the servers system that gives you money every 3 minutes.
+
+You only get the free money if you have less than 50k in your balance so you have to deposit it into your org bank.
+
+So overall this script is good for anti-afk as well as an auto money generator.
