@@ -5,3 +5,6 @@ This takes advantage of the servers system that gives you money every 3 minutes.
 You only get the free money if you have less than 50k in your balance so you have to deposit it into your org bank.
 
 So overall this script is good for anti-afk as well as an auto money generator.
+
+Keep in mind that for this script to work properly, you have to right click on Garry's Mod in Steam, then click on Properties. In the General tab, add the following in the Launch Options field.
+"windowed -applaunch 4000 -w 800"
