@@ -8,3 +8,5 @@ So overall this script is good for anti-afk as well as an auto money generator.
 
 Keep in mind that for this script to work properly, you have to right click on Garry's Mod in Steam, then click on Properties. In the General tab, add the following in the Launch Options field.
 "windowed -applaunch 4000 -w 800"
+
+keep in mind this script only works if you are playing gmod in a default windows VNC size. 
