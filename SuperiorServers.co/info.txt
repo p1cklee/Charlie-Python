@@ -1,12 +1,23 @@
-This script automatically opens Steam, joins the server, and deposits 10k into your org bank every 2 hours.
+Automatic Garry's Mod Org Bank Depositor Script
 
-This takes advantage of the servers system that gives you money every 3 minutes.
+This script is designed to streamline your Garry's Mod experience by automating the process of opening Steam, joining SUPS server, and depositing 10k into your organization's bank every 2 hours. It leverages the server's money distribution system that grants funds every 3 minutes.
 
-You only get the free money if you have less than 50k in your balance so you have to deposit it into your org bank.
+Features:
+Automatic Org Bank Deposits: The script ensures a smooth flow of funds into your organization's bank account, preventing any loss of the free money provided by the server.
 
-So overall this script is good for anti-afk as well as an auto money generator.
+Prerequisites:
+For optimal functionality, follow these steps:
 
-Keep in mind that for this script to work properly, you have to right click on Garry's Mod in Steam, then click on Properties. In the General tab, add the following in the Launch Options field.
+Right-click on Garry's Mod in Steam.
+
+Click on "Properties."
+
+In the General tab, add the following to the Launch Options field:
+
 "windowed -applaunch 4000 -w 800"
+This ensures the script works seamlessly with your Garry's Mod setup.
 
-keep in mind this script only works if you are playing gmod in a default windows VNC size. 
+Note:
+
+The script is designed for Garry's Mod played in the default Windows VNC size. Make sure your game setup aligns with this configuration for the script to work effectively.
+Feel free to customize it further based on your specific audience or additional details you want to include!
